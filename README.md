@@ -1,5 +1,5 @@
 # JSON-Parser
-JSON Test Parsing for QT  
+JSON Test Parsing for Qt  
 
 ![JSON](https://user-images.githubusercontent.com/22214754/230704978-03218652-fe76-450a-8d37-f35be4c035d6.png)  
 
